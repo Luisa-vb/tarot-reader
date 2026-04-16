@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EXT:tarot_reader/Resources/Private/Language/locallang_mod.xlf">
+        <body>
+            <trans-unit id="mlang_tabs_tab">
+                <source>Tarot Reader</source>
+            </trans-unit>
+            <trans-unit id="mlang_labels_tablabel">
+                <source>The Oracle — Draw a card, receive a question</source>
+            </trans-unit>
+            <trans-unit id="mlang_labels_tabdescr">
+                <source>A mystical Tarot Card Reader for the TYPO3 Backend. Each time you open the module, draw a card and receive a deep life question to reflect upon.</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

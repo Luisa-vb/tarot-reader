@@ -1,0 +1,12 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Visionbites\TarotReader\:
+    resource: '../Classes/*'
+
+  Visionbites\TarotReader\Controller\TarotReaderController:
+    tags:
+      - name: 'backend.controller'

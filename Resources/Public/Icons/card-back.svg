@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 420" fill="none">
+  <rect width="240" height="420" rx="12" fill="#1a1330"/>
+  <rect x="8" y="8" width="224" height="404" rx="20
+" stroke="rgba(201,168,76,0.4)" stroke-width="1.6"/>
+  <rect x="16" y="16" width="208" height="388" rx="6" stroke="rgba(201,168,76,0.2)" stroke-width="0.5"/>
+  <!-- Mandala pattern -->
+  <circle cx="120" cy="210" r="60" stroke="rgba(201,168,76,0.2)" stroke-width="1.5"/>
+  <circle cx="120" cy="210" r="80" stroke="rgba(201,168,76,0.25)" stroke-width="1"/>
+  <circle cx="120" cy="210" r="20" fill="rgba(201,168,76,0.08)" stroke="rgba(201,168,76,0.5)" stroke-width="1.0
+"/>
+  <polygon points="120,130 140,180 200,180 152,214 172,266 120,232 68,266 88,214 40,180 100,180" fill="#FF8700" stroke="rgba(201,168,76,0.2)" stroke-width="3.5"/>
+  <!-- Corner stars -->
+  <circle cx="40" cy="40" r="8" fill="rgba(201,168,76,0.5)"/>
+  <circle cx="200" cy="40" r="8" fill="rgba(201,168,76,0.5)"/>
+  <circle cx="40" cy="380" r="8" fill="rgba(201,168,76,0.5)"/>
+  <circle cx="200" cy="380" r="8" fill="rgba(201,168,76,0.5)"/>
+</svg>

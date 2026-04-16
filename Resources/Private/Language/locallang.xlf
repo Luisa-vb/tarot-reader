@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="messages" product-name="tarot_reader">
+        <header/>
+        <body>
+            <trans-unit id="module.title">
+                <source>Tarot Reader</source>
+            </trans-unit>
+            <trans-unit id="module.draw">
+                <source>Draw another card</source>
+            </trans-unit>
+            <trans-unit id="module.question_label">
+                <source>Your question to sit with</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

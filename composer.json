@@ -1,0 +1,25 @@
+{
+    "name": "visionbites/tarot-reader",
+    "type": "typo3-cms-extension",
+    "description": "A mystical Tarot Card Reader for the TYPO3 Backend: draw a card and receive a deep life question to reflect upon.\uD83D\uDD2E",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "codenotfound",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^14.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Visionbites\\TarotReader\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "tarot_reader"
+        }
+    }
+}

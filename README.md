@@ -2,7 +2,7 @@
 
 > *"The cards do not tell you what will happen. They ask you who you are."*
 
-A mystical Tarot Card Reader module for the TYPO3 v14 backend. Every time you open the module, a card is drawn from the full 78-card deck (Major & Minor Arcana). Each card reveals a **deep life question** — crafted to provoke genuine reflection.
+A mystical Tarot Card Reader module for the TYPO3 v14 backend. Every time you open the module, a card is drawn from the Major Arcana. Each card reveals a **deep life question** — crafted to provoke genuine reflection.
 
 ---
 
@@ -38,7 +38,7 @@ Place your card images in:
 EXT:tarot_reader/Resources/Public/Images/Cards/
 ```
 
-Name them by card ID (0–77):
+Name them by card ID (0–21):
 
 | ID | Card |
 |----|------|

@@ -1,4 +1,4 @@
-# EXT:tarot_reader — Tarot Reader for TYPO3 Backend
+# Tarot Reader for TYPO3 Backend🔮
 
 A mystical Tarot Card Reader module for the TYPO3 v14 backend. Every time you open the module, a card is drawn from the Major Arcana. Each card reveals a **deep life question** — crafted to provoke genuine reflection.
 

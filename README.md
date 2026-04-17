@@ -12,7 +12,7 @@ A mystical Tarot Card Reader module for the TYPO3 v14 backend. Every time you op
 - 🔄 **Reversed cards** — 30% chance a card appears reversed, adding depth
 - ❓ **Multiple questions per card** — each card has 3–4 unique questions; one is chosen randomly
 - 🎨 **Beautiful dark UI** — designed to feel genuinely mystical, not corporate
-- 🖼️ **Custom card images** — drop your card images into `Resources/Public/Images/Cards/` (named `0.jpg` through `77.jpg`)
+- 🖼️ **Custom card images** — drop your card images into `Resources/Public/Images/Cards/` (named `0.jpg` through `21.jpg`)
 - 🔁 **Draw again** — refresh anytime for a new card
 
 ---

@@ -1,8 +1,15 @@
 # EXT:tarot_reader — Tarot Reader for TYPO3 Backend
 
-> *"The cards do not tell you what will happen. They ask you who you are."*
-
 A mystical Tarot Card Reader module for the TYPO3 v14 backend. Every time you open the module, a card is drawn from the Major Arcana. Each card reveals a **deep life question** — crafted to provoke genuine reflection.
+
+---
+## Philosophy
+
+This extension is not about prediction. It's about **presence**.
+
+Each card carries questions that were written to resist easy answers — questions that sit with you through the day, that surface in quiet moments, that make you look at your work, your relationships, your choices from a different angle.
+
+Open the module. Draw a card. Let the question find you.
 
 ---
 
@@ -79,13 +86,3 @@ The module appears under **Help → Tarot** in the TYPO3 backend menu.
 
 - TYPO3 v14.x
 - PHP 8.2+
-
----
-
-## Philosophy
-
-This extension is not about prediction. It's about **presence**.
-
-Each card carries questions that were written to resist easy answers — questions that sit with you through the day, that surface in quiet moments, that make you look at your work, your relationships, your choices from a different angle.
-
-Open the module. Draw a card. Let the question find you.
